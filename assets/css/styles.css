@@ -27,3 +27,8 @@ body{
 	gap: 2rem;
 	margin: 10% 4rem 0 4rem;
 }
+	.last{
+		transform: skew(30deg,30deg);
+		padding-bottom: 2rem;
+		border-bottom: 2px solid rgb(200,200,200);
+	}
